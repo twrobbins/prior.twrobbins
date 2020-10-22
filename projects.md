@@ -16,7 +16,7 @@
 
 [Neural Network Classifier](projects/code/DSC550-Neural%Network%Classifier.ipynb)
 
-[Hotel Cluster Prediction-r](projects/code/DSC630-Hotel%Cluster%Prediction-Part 2-R.ipynb)
+[Hotel Cluster Prediction-r](projects/code/DSC630-Hotel%Cluster%PredictionR.ipynb)
 
 [Hotel Cluster Prediction-py](projects/code/DSC630-Hotel%Cluster%Prediction-Python.ipynb)
 
