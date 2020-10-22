@@ -1,5 +1,5 @@
 # Welcome to the index page!
 
 [About](about.md)
-[Work](/projects/code/)
+[Work](/projects.md)
 
