@@ -2,6 +2,6 @@
 
 [About](about.md)
 
-[Work](/projects.md)
+[Projects](projects.md)
 
 [Contact](contact.md)
