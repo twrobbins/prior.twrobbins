@@ -1,6 +1,6 @@
 # Projects:
 
-[Weather Forecast](twrobbins.github.io/DSC510-Weather%Forecast.py)
+[Weather Forecast](https://github.com/twrobbins/twrobbins.github.io/blob/main/projects/code/twrobbins.github.io/DSC510-Weather%Forecast.py)
 
 [World Happiness](/projects/code/DSC520-World%Happiness.rmd)
 
