@@ -2,7 +2,7 @@
 
 [Weather Forecast](/twrobbins/twrobbins.github.io/blob/main/projects/code/twrobbins.github.io/DSC510-Weather%Forecast.py)
 
-[World Happiness](/projects/code/DSC520-World%Happiness.rmd)
+[World Happiness](./projects/code/DSC520-World%Happiness.rmd)
 
 [Hike Predictions](/projects/code/DSC530-Predicting%Hike%Times.ipynb)
 
