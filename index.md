@@ -1,7 +1,5 @@
-# Welcome to the index page!
+# [About](about.md)
 
-[About](about.md)
+# [Projects](/projects/code/index.md)
 
-[Projects](/projects/code/index.md)
-
-[Contact](contact.md)
+# [Contact](contact.md)
