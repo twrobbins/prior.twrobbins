@@ -2,7 +2,7 @@
 
 [Weather Forecast](DSC510-Weather%Forecast.py)
 
-[World Happiness](/projects/code/DSC520-World%Happiness.rmd)
+[World Happiness](projects/code/DSC520-World%Happiness.rmd)
 
 [Hike Predictions](/projects/code/DSC530-Predicting%Hike%Times.ipynb)
 
@@ -16,11 +16,7 @@
 
 [Neural Network Classifier](/projects/code/DSC550-Neural%Network%Classifier.ipynb)
 
-[Hotel Cluster Prediction-r](/projects/code/DSC630-Hotel%Cluster%PredictionR.ipynb)
-
-[Hotel Cluster Prediction-py](/projects/code/DSC630-Hotel%Cluster%Prediction-Python.ipynb)
-
-[Restaurant Rating Prediction-py](/projects/code/DSC630-Predicting%Restaurant%Ratings-Python.ipynb)
+[Hotel Cluster Prediction](/projects/code/DSC630-Hotel%Cluster%PredictionR.ipynb)
 
 [Restaurant Rating Prediction-r](/projects/code/DSC630-Predicting%Restaurant%Ratings-R.ipynb)
 
