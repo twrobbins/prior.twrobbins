@@ -1,6 +1,6 @@
 # Projects:
 
-[Weather Forecast](/projects/DSC510-Weather%Forecast.md)
+[Weather Forecast](DSC510-Weather%Forecast.py)
 
 [World Happiness](/projects/code/DSC520-World%Happiness.rmd)
 
