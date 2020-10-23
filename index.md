@@ -2,6 +2,6 @@
 
 [About](about.md)
 
-[Projects](projects.md)
+[Projects](/projects/code/index.md)
 
 [Contact](contact.md)
