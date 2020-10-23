@@ -2,7 +2,7 @@
 
 [Weather Forecast](/DSC510-Weather%Forecast.py)
 
-[World Happiness](/DSC520-World%Happiness.rmd)
+[World Happiness](DSC520-World%Happiness.rmd)
 
 [Hike Predictions](/projects/code/DSC530-Predicting%Hike%Times.ipynb)
 
