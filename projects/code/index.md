@@ -1,10 +1,10 @@
 # Projects:
 
-[Weather Forecast](DSC510-Weather%Forecast.py)
+[Weather Forecast](/projects/code/DSC510-Weather%Forecast.py)
 
-[World Happiness](DSC520-World%Happiness.rmd)
+[World Happiness](projects/code/DSC520-World%Happiness.rmd)
 
-[Hike Predictions](projects/code/DSC530-Predicting%Hike%Times.ipynb)
+[Hike Predictions](/projects/code/DSC530-Predicting%Hike%Times.ipynb)
 
 [Data Wrangling](/projects/code/DSC540-Hiking%Data%Wrangling.ipynb)
 
