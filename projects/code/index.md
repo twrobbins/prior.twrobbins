@@ -12,7 +12,7 @@
 
 [Loan Approval](DSC550-Home%20Loan%20Approval.ipynb)
 
-[Word Tokenization](DSC550-LSTM%20Word%20Tokenization.py)
+[Word Tokenization](DSC550-LSTM%20Work%20Tokenization.py)
 
 [Neural Network Classifier](DSC550-Neural%20Network%20Classifier.ipynb)
 
