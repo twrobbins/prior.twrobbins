@@ -16,7 +16,7 @@
 
 [Neural Network Classifier](DSC550-Neural%20Network%20Classifier.ipynb)
 
-[Hotel Cluster Prediction](DSC630-Hotel%20Cluster%20Prediction-R.ipynb)
+[Hotel Cluster Prediction](DSC630-Hotel%20Cluster%20Prediction-Part%202-R.ipynb)
 
 [Restaurant Rating Prediction](DSC630-Predicting%20Restaurant%20Ratings-R.ipynb)
 
